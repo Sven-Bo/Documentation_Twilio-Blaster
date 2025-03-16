@@ -1,5 +1,9 @@
 # How to send WhatsApp template messages
 
+{% embed url="https://iframe.mediadelivery.net/play/289332/4e6714d6-7759-49b5-b416-8030b227a672" %}
+WhatsApp Template Message Tutorial
+{% endembed %}
+
 ### What are WhatsApp Template Messages?
 
 WhatsApp template messages are pre-approved message formats that businesses can use to send notifications to customers. They must be approved by WhatsApp before you can use them.
