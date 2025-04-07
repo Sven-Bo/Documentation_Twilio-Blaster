@@ -1,14 +1,14 @@
 # How to use the phone number validator
 
-{% embed url="https://iframe.mediadelivery.net/play/289332/d6d7b53e-de4e-4bbe-bf7a-064d2c44573f" %}
-Watch the tutorial video
+{% embed url="https://iframe.mediadelivery.net/play/289332/4ec70f4f-8ad1-4be0-9778-889da6d77793" %}
+Watch the tuturial video
 {% endembed %}
 
-#### Overview <a href="#overview" id="overview"></a>
+### Overview <a href="#overview" id="overview"></a>
 
 The Phone Number Validation & Formatting tool helps you prepare your contact lists for SMS messaging by ensuring all phone numbers are properly formatted and valid. This tool is essential for maximizing your SMS delivery rates and avoiding wasted messages.
 
-#### Features <a href="#features" id="features"></a>
+### Features <a href="#features" id="features"></a>
 
 * **E.164 Formatting**: Converts phone numbers to the international E.164 format
 * **Validation**: Checks if numbers are valid and can receive SMS messages
@@ -16,7 +16,7 @@ The Phone Number Validation & Formatting tool helps you prepare your contact lis
 * **Type Classification**: Identifies whether numbers are mobile, landline, or VoIP
 * **Timezone Information**: Shows the timezone associated with each number
 
-#### Default Region Setting <a href="#default-region-setting" id="default-region-setting"></a>
+### Default Region Setting <a href="#default-region-setting" id="default-region-setting"></a>
 
 The default region setting tells the system which country to use when processing phone numbers without a country code.
 
@@ -31,7 +31,7 @@ The default region setting tells the system which country to use when processing
 * If you enter "555-123-4567" with US as default region → Formatted as "+15551234567"
 * If you enter "555-123-4567" with UK as default region → Formatted as "+44555123456"
 
-#### How to Use <a href="#how-to-use" id="how-to-use"></a>
+### How to Use <a href="#how-to-use" id="how-to-use"></a>
 
 1. Enter your phone numbers in the **Input** column
    * Numbers can be in any format (local, with/without country code, with spaces or symbols)
@@ -45,7 +45,7 @@ The default region setting tells the system which country to use when processing
    * **Type**: Shows if the number is mobile, landline, or VoIP
    * **Timezone**: Shows the timezone for the number
 
-#### Frequently Asked Questions <a href="#frequently-asked-questions" id="frequently-asked-questions"></a>
+### Frequently Asked Questions <a href="#frequently-asked-questions" id="frequently-asked-questions"></a>
 
 <details>
 
