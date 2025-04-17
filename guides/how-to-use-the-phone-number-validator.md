@@ -1,7 +1,7 @@
 # How to use the phone number validator
 
-{% embed url="https://iframe.mediadelivery.net/play/289332/4ec70f4f-8ad1-4be0-9778-889da6d77793" %}
-Watch the tuturial video
+{% embed url="https://iframe.mediadelivery.net/play/289332/fd34a147-2ef6-4574-b77f-ac7884819542" %}
+Phonenumber Validator Tutorial
 {% endembed %}
 
 ### Overview <a href="#overview" id="overview"></a>
