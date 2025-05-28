@@ -39,3 +39,4 @@
 * [How much does it cost to send a SMS?](faq/how-much-does-it-cost-to-send-a-sms.md)
 * [Does it work with my Excel version?](faq/does-it-work-with-my-excel-version.md)
 * [How do I get a refund?](faq/how-do-i-get-a-refund.md)
+* [How to cancel your subscription](faq/how-to-cancel-your-subscription.md)
