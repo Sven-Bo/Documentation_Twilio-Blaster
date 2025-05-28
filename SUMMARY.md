@@ -27,6 +27,10 @@
 
 * [Unable to click on buttons in the Twilio Blaster](troubleshooting/unable-to-click-on-buttons-in-the-twilio-blaster.md)
 
+***
+
+* [Resolving the “OLE Automation Error”](resolving-the-ole-automation-error.md)
+
 ## ⁉️ FAQ
 
 * [What does the message status mean?](faq/what-does-the-message-status-mean.md)
