@@ -1,4 +1,4 @@
-# How to Receive and Respond to Replies with Your Twilio Number
+# How to receive and respond to replies with your Twilio number
 
 You’ve sent your messages with Twilio Blaster. Job done, right? Almost.
 
@@ -40,11 +40,13 @@ That link could send the message to:
 
 **Important to know:** Webhooks are flexible, but they do require setup. You’ll need a public URL that can accept incoming data. If that sounds too technical, you can use tools like:
 
-* [Pabbly Connect](https://pythonandvba.com/go/pabbly-connect) _(great if you're looking for a one-time purchase)_
+* [Pabbly Connect](https://pythonandvba.com/go/pabbly-connect)<mark style="color:red;">**\***</mark> _(great if you're looking for a one-time purchase)_
 * [Make.com](https://www.make.com/)
 * [Zapier](https://zapier.com/)
 
 These platforms let you connect Twilio to other services without writing code.
+
+_<mark style="color:red;">**\***</mark>I use Pabbly Connect myself to run all backend operations on my website, so if you’ve got any questions, feel free to reach out._
 
 ***
 

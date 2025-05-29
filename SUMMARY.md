@@ -25,7 +25,7 @@
 
 ***
 
-* [How to Receive and Respond to Replies with Your Twilio Number](how-to-receive-and-respond-to-replies-with-your-twilio-number.md)
+* [How to receive and respond to replies with your Twilio number](how-to-receive-and-respond-to-replies-with-your-twilio-number.md)
 
 ## 🛠️ Troubleshooting
 
