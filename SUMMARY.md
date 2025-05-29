@@ -23,6 +23,10 @@
 * [How to set custom delays between messages](guides/how-to-set-custom-delays-between-messages.md)
 * [How to send SMS with Alphanumeric Sender ID](guides/how-to-send-sms-with-alphanumeric-sender-id.md)
 
+***
+
+* [How to Receive and Respond to Replies with Your Twilio Number](how-to-receive-and-respond-to-replies-with-your-twilio-number.md)
+
 ## 🛠️ Troubleshooting
 
 * [Unable to click on buttons in the Twilio Blaster](troubleshooting/unable-to-click-on-buttons-in-the-twilio-blaster.md)
