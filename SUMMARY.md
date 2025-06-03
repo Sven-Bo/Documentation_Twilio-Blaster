@@ -20,6 +20,7 @@
 * [How to use the phone number converter](guides/how-to-use-the-phone-number-converter.md)
 * [How to use the phone number validator](guides/how-to-use-the-phone-number-validator.md)
 * [How to use placeholders](guides/how-to-use-placeholders.md)
+* [How to use spintext](guides/how-to-use-spintext.md)
 * [How to set custom delays between messages](guides/how-to-set-custom-delays-between-messages.md)
 * [How to send SMS with Alphanumeric Sender ID](guides/how-to-send-sms-with-alphanumeric-sender-id.md)
 
