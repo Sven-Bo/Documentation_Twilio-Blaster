@@ -12,8 +12,6 @@ Spintext is a simple way to make your messages feel more human by adding variati
 
 Here’s the basic format:
 
-Copy
-
 ```
 [[Hi|Hello|Hey]] Sarah, just checking in!
 ```
@@ -31,8 +29,6 @@ Every time a message goes out, one of those options is chosen at random. That wa
 Spintext works perfectly with placeholders like `{{FirstName}}` or `{{Company}}`.
 
 You can even nest placeholders inside spintext:
-
-Copy
 
 ```
 [[Hi {{FirstName}}|Hello {{FirstName}}|Hey there]]
