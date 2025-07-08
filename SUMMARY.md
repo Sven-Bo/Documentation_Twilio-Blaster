@@ -27,6 +27,7 @@
 ***
 
 * [How to receive and respond to replies with your Twilio number](how-to-receive-and-respond-to-replies-with-your-twilio-number.md)
+* [How to autofill numbers or messages into more cells](how-to-autofill-numbers-or-messages-into-more-cells.md)
 
 ## 🛠️ Troubleshooting
 
