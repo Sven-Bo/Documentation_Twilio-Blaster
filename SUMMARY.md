@@ -32,10 +32,8 @@
 ## 🛠️ Troubleshooting
 
 * [Unable to click on buttons in the Twilio Blaster](troubleshooting/unable-to-click-on-buttons-in-the-twilio-blaster.md)
-
-***
-
-* [Resolving the “OLE Automation Error”](resolving-the-ole-automation-error.md)
+* [Resolving the “OLE Automation Error”](troubleshooting/resolving-the-ole-automation-error.md)
+* [Message gets split into multiple cells when pasting](troubleshooting/message-gets-split-into-multiple-cells-when-pasting.md)
 
 ## ⁉️ FAQ
 
