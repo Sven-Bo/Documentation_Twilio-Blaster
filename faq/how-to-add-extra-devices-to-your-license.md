@@ -25,7 +25,7 @@ You add one extra device on the 5th.
 ### Add Extra Devices
 
 1. Clcik the button below\
-   <a href="https://pythonandvba.com/go/add-extra-devices?product=quicktext" class="button primary" data-icon="display-medical">Add extra device</a>
+   <a href="https://pythonandvba.com/go/add-extra-devices?product=twilioblaster" class="button primary" data-icon="display-medical">Add extra device</a>
 2. Choose monthly or yearly.
 3. Select how many extra devices you want.
 4. Complete checkout.
