@@ -44,3 +44,5 @@
 * [Does it work with my Excel version?](faq/does-it-work-with-my-excel-version.md)
 * [How do I get a refund?](faq/how-do-i-get-a-refund.md)
 * [How to cancel your subscription](faq/how-to-cancel-your-subscription.md)
+* [How to manage devices linked to your license](faq/how-to-manage-devices-linked-to-your-license.md)
+* [How to add extra devices to your license](faq/how-to-add-extra-devices-to-your-license.md)

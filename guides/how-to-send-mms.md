@@ -60,7 +60,7 @@ To save time, you can use the **MMS Link Converter** tool built into Twilio Blas
 * ✅ Direct Link:\
   `https://www.dropbox.com/s/abcd1234/myfile.png?raw=1`
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>MMS Link Converter Tool</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>MMS Link Converter Tool</p></figcaption></figure>
 
 How to Fill the Image URL Column
 

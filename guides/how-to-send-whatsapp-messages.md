@@ -3,7 +3,7 @@
 To send WhatsApp messages using Twilio Blaster, follow these simple steps:
 
 1. **Enable WhatsApp Messaging**: In the settings, set the WhatsApp messaging option to "On".\
-   ![](<../.gitbook/assets/image (1) (1).png>)
+   ![](<../.gitbook/assets/image (1) (1) (1).png>)
 2. **Set Up a WhatsApp API Number**: You'll need a WhatsApp-enabled phone number. This involves registering your number through Twilio. Detailed instructions are available in Twilio's guide: \
    👉 [**\[Twilio\] Register on WhatsApp using Self Sign-up**](https://www.twilio.com/docs/whatsapp/self-sign-up)
 3. **Sending Messages**: Once set up, you can send text messages as usual.
