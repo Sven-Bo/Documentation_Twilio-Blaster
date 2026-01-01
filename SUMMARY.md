@@ -23,6 +23,7 @@
 * [How to use spintext](guides/how-to-use-spintext.md)
 * [How to set custom delays between messages](guides/how-to-set-custom-delays-between-messages.md)
 * [How to send SMS with Alphanumeric Sender ID](guides/how-to-send-sms-with-alphanumeric-sender-id.md)
+* [How to handle Opt-Out / STOP requests](guides/how-to-handle-opt-out-stop-requests.md)
 
 ***
 
